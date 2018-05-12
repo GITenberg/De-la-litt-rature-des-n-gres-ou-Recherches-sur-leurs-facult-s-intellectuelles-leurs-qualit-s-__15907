@@ -1,0 +1,38 @@
+_repo: De-la-litt-rature-des-n-gres-ou-Recherches-sur-leurs-facult-s-intellectuelles-leurs-qualit-s-__15907
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Grégoire, Henri
+    aliases:
+    - Grégoire, Baptiste Henri
+    - Gregoire, Henri
+    - Grégoire, H. (Henri)
+    birthdate: 1750
+    deathdate: 1831
+    gutenberg_agent_id: '6370'
+    url: http://www.gutenberg.org/2009/agents/6370
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Henri_Grégoire
+    - http://en.wikipedia.org/wiki/Henri_Grégoire
+description: ''
+gutenberg_bookshelf: FR Peuples et Sociétés
+gutenberg_issued: '2005-05-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15907'
+  lccn: '25020330'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Literature -- Black authors -- History and criticism'
+- !lcsh 'Blacks'
+- !lcc 'HT'
+- !lcsh 'Blacks -- Biography'
+title: De la littérature des nègres, ou Recherches sur leurs facultés intellectuelles,
+  leurs qualités morales et leur littérature
+url: http://www.gutenberg.org/ebooks/15907
